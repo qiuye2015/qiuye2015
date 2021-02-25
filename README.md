@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuye2015&show_icons=true&theme=dracula&hide=stars,commits,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye2015&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuye2015&show_icons=true&theme=dracula&hide=stars,commits,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye2015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{这里可以加入GitHub名字，也可以是其他的字符串})
